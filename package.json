@@ -17,5 +17,8 @@
     "url": "https://github.com/EthanWeber7/helloWorldCLI/issues"
   },
   "homepage": "https://github.com/EthanWeber7/helloWorldCLI#readme",
-  "man": "./man/doc.1"
+  "man": "./man/doc.1",
+  "devDependencies": {
+    "@types/node": "^12.12.7"
+  }
 }
